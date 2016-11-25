@@ -6,6 +6,7 @@
   :dependencies [[luminus-log4j "0.1.3"]
                  [org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.9.293" :scope "provided"]
+                 [com.taoensso/sente "1.8.0"] 
                  [reagent "0.6.0"]
                  [cljs-ajax "0.5.8"]
                  [selmer "1.0.6"]
